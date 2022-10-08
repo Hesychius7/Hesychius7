@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hesychius7
 - 👀 I’m interested in Front end Development 
-- 🌱 I’m currently learning HTML, CSS and JavaScript 
+- 🌱 I’m currently learning HTML, CSS and JavaScript and React
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: emmanuelolufemi20@gmail.com 
 
